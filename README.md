@@ -1,7 +1,7 @@
 # Get Validations From Server
 <b>Description:</b> <br/>
-get validations from server using Attributes in properties, C# Reflection 
-This test Project to show you example of usage for attributes and data annotations for properties and how to get them using C# Reflection 
+get validations from server using Attributes in properties.
+This test Project to show you example of usage for attributes and data annotations for properties, how to get them using C# Reflection.
 you can use this to get the validation from server using Ajax Request, and assign them to your inputs through JS.
 <br/>
 <hr/>
