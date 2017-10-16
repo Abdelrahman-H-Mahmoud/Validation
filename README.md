@@ -1,4 +1,4 @@
-# Get Validations From Server
+# Get Validations From Server C#
 <b>Description:</b> <br/>
 get validations from server using Attributes in properties.
 This test Project to show you example of usage for attributes and data annotations for properties, how to get them using C# Reflection.
